@@ -4153,3 +4153,14 @@ h3 {
 .footer_logo {
   width: 100px;
 }
+
+.footer-widget img {
+  width: 100px;
+}
+
+@media(min-width:900px) {
+  .footer_address {
+    width: 210px;
+  }
+
+}

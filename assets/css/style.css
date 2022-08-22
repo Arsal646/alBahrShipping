@@ -4164,3 +4164,11 @@ h3 {
   }
 
 }
+
+.switch-box {
+  display: none;
+}
+
+.top-btn {
+  display: none !important;
+}

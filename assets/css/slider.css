@@ -625,17 +625,17 @@ body {
 
 .example-slider .fnc-slide-1 .fnc-slide__inner,
 .example-slider .fnc-slide-1 .fnc-slide__mask-inner {
-    background-image: url("https://arsal646.github.io/fixaaaa/assets/img/pic2.jpg");
+    background-image: url("../img/home/banner1.jpeg");
 }
 
 .example-slider .fnc-slide-2 .fnc-slide__inner,
 .example-slider .fnc-slide-2 .fnc-slide__mask-inner {
-    background-image: url("https://arsal646.github.io/fixaaaa/assets/img/pic2.jpg");
+    background-image: url("../img/home/NVOCC\ 1.jpg");
 }
 
 .example-slider .fnc-slide-3 .fnc-slide__inner,
 .example-slider .fnc-slide-3 .fnc-slide__mask-inner {
-    background-image: url("https://arsal646.github.io/fixaaaa/assets/img/pic2.jpg");
+    background-image: url("../img/home/Break-bulk\ and\ RO-RO\ services.jpg");
 }
 
 .example-slider .fnc-slide-3 .fnc-slide__inner:before {
@@ -650,7 +650,7 @@ body {
 
 .example-slider .fnc-slide-4 .fnc-slide__inner,
 .example-slider .fnc-slide-4 .fnc-slide__mask-inner {
-    background-image: url("https://arsal646.github.io/fixaaaa/assets/img/pic2.jpg");
+    background-image: url("../img/home/Break-bulk\ and\ RO-RO\ services.jpg");
 }
 
 .example-slider .fnc-slide-4 .fnc-slide__inner:before {

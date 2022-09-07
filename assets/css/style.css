@@ -1,5 +1,5 @@
 /*
-@File: Fixa Template Styles
+@File: ABAF Template Styles
 
 * This file contains the styling for the actual template, this
 is the file you need to edit to change the look of the
@@ -998,11 +998,11 @@ h3 {
 .get-quote-section .quote-text .offer-text p {
   position: absolute;
   top: 25px;
-  right: -110px;
+  right: -163px;
   background: #ff440a;
   color: #ffffff;
   font-weight: 700;
-  width: 120px;
+  width: 170px;
   height: 50px;
   line-height: 50px;
   padding-left: 10px;
@@ -1340,7 +1340,7 @@ h3 {
 }
 
 .feedback-bg {
-  background-image: url('/assets/img/pic1.jpg');
+  background-image: url('assets/img/pic1.jpg');
   background-size: cover;
   background-position: center center;
   position: relative;
@@ -4094,7 +4094,7 @@ h3 {
 .card_img img {
   max-width: 100%;
   width: 100%;
-  height: 100%;
+  height: 150px;
   border-radius: 6px;
 
 }

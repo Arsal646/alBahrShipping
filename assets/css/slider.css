@@ -625,12 +625,12 @@ body {
 
 .example-slider .fnc-slide-1 .fnc-slide__inner,
 .example-slider .fnc-slide-1 .fnc-slide__mask-inner {
-    background-image: url("../img/home/banner1.jpeg");
+    background-image: url("../img/home/banner1.jpg");
 }
 
 .example-slider .fnc-slide-2 .fnc-slide__inner,
 .example-slider .fnc-slide-2 .fnc-slide__mask-inner {
-    background-image: url("../img/home/NVOCC\ 1.jpg");
+    background-image: url("../img/home/slider1.jpg");
 }
 
 .example-slider .fnc-slide-3 .fnc-slide__inner,

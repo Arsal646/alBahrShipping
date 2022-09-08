@@ -2659,7 +2659,7 @@ h3 {
 }
 
 .page-title.title-bg-1 {
-  background-image: url(../img/page-bg/1.jpg);
+  background-image: url(../img/home/slider1.jpg);
 }
 
 /* Page Title CSS End*/
@@ -2827,7 +2827,7 @@ h3 {
 /*---------- Service Page One CSS End ----------*/
 /*---------- Service Page Two CSS Start ----------*/
 .page-title.title-bg-3 {
-  background-image: url(../img/page-bg/3.jpg);
+  background-image: url(../img/home/banner1.jpg);
 }
 
 .transport-style-four .transport-card {
@@ -2984,7 +2984,7 @@ h3 {
 /*---------- Service Details CSS End ----------*/
 /*---------- Why Choose Page CSS Start ----------*/
 .page-title.title-bg-10 {
-  background-image: url(../img/page-bg/10.jpg);
+  background-image: url(../img/home/banner1.jpeg);
 }
 
 .choose-style-three .choose-card::before {

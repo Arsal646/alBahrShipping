@@ -791,7 +791,7 @@ h3 {
 
 .why-choose-section .why-choose-img {
   position: relative;
-  background-image: url(../img/why-choose/1.jpg);
+  background-image: url(../img/about/about2.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2627,11 +2627,23 @@ h3 {
   padding-left: 0;
 }
 
+@media(min-width:900px) {
+  .page-title .title-text ul li {
+    display: inline-block;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 1.5;
+    margin: 0 15px;
+    position: relative;
+  }
+
+}
+
 .page-title .title-text ul li {
   display: inline-block;
   color: #ffffff;
   font-size: 18px;
-  line-height: 1;
+  line-height: 1.5;
   margin: 0 15px;
   position: relative;
 }
@@ -2765,7 +2777,7 @@ h3 {
 /*---------- Service Page Two CSS Start ----------*/
 /* Page Title Start */
 .page-title.title-bg-2 {
-  background-image: url(../img/page-bg/2.jpg);
+  background-image: url(../img/home/slider1.jpg);
 }
 
 /* Page Title End */
@@ -3108,7 +3120,7 @@ h3 {
 /*---------- Error Page CSS End ----------*/
 /*---------- Why Choose Page CSS Start ----------*/
 .page-title.title-bg-5 {
-  background-image: url(../img/page-bg/5.jpg);
+  background-image: url(../img/home/banner1.jpg);
 }
 
 /*---------- Why Choose Page CSS End ----------*/
@@ -3174,13 +3186,13 @@ h3 {
 /*----------  Coming Page CSS End ----------*/
 /*----------  Blog Page One CSS Start ----------*/
 .page-title.title-bg-6 {
-  background-image: url(../img/page-bg/6.jpg);
+  background-image: url(../img/home/slider1.jpg);
 }
 
 /*----------  Blog Page One CSS End ----------*/
 /*----------  Blog Page Two CSS Start ----------*/
 .page-title.title-bg-7 {
-  background-image: url(../img/page-bg/7.jpg);
+  background-image: url(../img/home/slider1.jpg);
 }
 
 .blog-style-three .blog-card .blog-img {
@@ -3271,7 +3283,7 @@ h3 {
 /*----------  Blog Page Two CSS End ----------*/
 /*----------  Blog Details Page Two CSS Start ----------*/
 .page-title.title-bg-7 {
-  background-image: url(../img/page-bg/7.jpg);
+  background-image: url(../img/home/slider1.jpg);
 }
 
 .blog-details-area .blog-post-area .blog-details-img {

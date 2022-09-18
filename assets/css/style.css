@@ -4189,3 +4189,14 @@ h3 {
 .top-btn {
   display: none !important;
 }
+
+.blog-details-area .blog-post-area ul li {
+  list-style: none;
+  color: #3c0c70;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  list-style: outside;
+  /* padding-left: 20px; */
+  margin-left: 25px;
+}

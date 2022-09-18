@@ -7,14 +7,14 @@ fetch('assets/js/blog.json')
     .then(data => {
 
         blogData = data
-        // console.log(blogData)
+        console.log(blogData)
         for (let blog of blogData) {
             console.log(blog)
             output += `
             <div class="col-lg-4 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-duration="1s">
             <div class="blog-card">
                 <div class="blog-img">
-                    <a href="blog-details.html"><img src=${blog.img} alt=${blog.alt_text}></a>
+                    <a href=${blog.link}><img src=${blog.img} alt=${blog.alt_text}></a>
                 </div>
                 <div class="blog-text">
                     <h3>

@@ -4201,3 +4201,11 @@ h3 {
   /* padding-left: 20px; */
   margin-left: 25px;
 }
+
+
+@media(min-width:800px) {
+  .blog-section .blog-card .blog-img a img {
+    height: 350px;
+    width: 100%;
+  }
+}
